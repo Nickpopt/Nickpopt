@@ -17,7 +17,7 @@ public class Database {
 	static final String DB_URL = "jdbc:mysql://localhost:3306/mydb";
 	
 	static final String USER = "root";
-	static final String PASS = "N1234567891";
+	static final String PASS = "N123456789";
 	
 	
 	
